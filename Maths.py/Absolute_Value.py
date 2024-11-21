@@ -8,4 +8,4 @@ def absolute(I):
         
 if __name__ == '__main__':
     num = int(input("Enter:"))
-    print(absolute(num))
+    print(absolute(num)) 
