@@ -4,6 +4,7 @@ l.append(30)
 print(l)
 
 l.insert(1,15)
+
 print(l)
 
 
