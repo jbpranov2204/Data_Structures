@@ -6,6 +6,7 @@ print(l)
 l.insert(1,15)
 print(l)
 
+
 l.count(30)
 print(l)
 
